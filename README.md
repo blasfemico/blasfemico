@@ -1,20 +1,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=280&section=header&text=Dante%20Villena&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20·%20Independent%20LLM%20Researcher%20·%20Senior%20Backend%20Engineer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=260&section=header&text=Dante%20Villena&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mid-Senior%20Backend%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Arquitecto%20de%20Agentes%20IA&descAlignY=58&descSize=17" width="100%" />
 
-<br>
+<!-- GIF cabeza cyberpunk. Si este no carga, reemplazalo con otro GIF de Motoko Kusanagi / GITS:
+     - https://tenor.com/ (buscar "ghost in the shell motoko gif", copiar "Share link" como .gif)
+     - https://giphy.com/ (idem)
+     - Un GIF propio subido a tu repo o imgur -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Cyberpunk head" />
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Building+Wraith+%E2%9A%A1+the+first+100%25+integer+LLM;Native+Pure+Quantized+Network+(NPQN);CUDA+Kernels+%7C+2.3x+faster+than+cuBLAS+fp16;501+tok%2Fs+%7C+114+MB+VRAM+%7C+64+mJ+per+token;Open+to+compute+sponsors+%26+seed+accelerators" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=800&color=FF003C&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Mid-Senior+Backend+Engineer+%2B+CTO;Arquitecto+de+sistemas+aut%C3%B3nomos+de+agentes+IA;Building+Wraith+%E2%80%94+el+NPQN;CUDA+%2F+ML+%2F+DL+%E2%80%94+aprendiendo+hace+1+a%C3%B1o" alt="typing" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=blasfemico&label=Profile%20Views&color=ff006e&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/blasfemico?label=Followers&style=for-the-badge&color=00f5ff&logo=github" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Sponsors-39ff14?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Based%20In-Argentina%20🇦🇷-ffffff?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=blasfemico&label=Profile+Views&color=FF003C&style=for-the-badge" />
+<img src="https://img.shields.io/badge/San%20Juan%2C%20Argentina%20🇦🇷-0B3D0B?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/Abierto%20a-equipo%20%7C%20financiaci%C3%B3n-39FF14?style=for-the-badge&labelColor=0B3D0B" />
 
 </div>
 
@@ -24,224 +29,115 @@
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"> `whoami`
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"> `whoami`
 
 ```yaml
-name:         Dante Villena
-location:     Buenos Aires / San Juan, Argentina 🇦🇷
-role:         CTO · Independent LLM Researcher · Senior Backend Engineer
-experience:   3+ años Backend mid/senior · multi-year CUDA research
-mission:      Make LLMs run everywhere — phones, browsers, embedded — at the Shannon limit.
-
-currently:
-  [✓] Training Wraith 186M — NPQN LLM at 3.17 bits/weight (Shannon limit)
-  [✓] Custom CUDA kernels — 501 tok/s on RTX 5070 consumer (2.38× cuBLAS fp16)
-  [✓] Paper draft for NeurIPS / ICLR 2026
-  [ ] 2B scale validation — seeking compute sponsors ($3k H100 credits)
-
-contact:      programmingblas@gmail.com
+nombre:       Dante Villena
+ubicacion:    San Juan, Argentina 🇦🇷
+rol:          Mid-Senior Backend Engineer · CTO
+especialidad: Arquitecto de sistemas autónomos de agentes IA
+experiencia:
+  backend:    3+ años (solid ground)
+  cuda/ml/dl: ~1 año (aprendiendo activamente, nuevo para mí)
+mision:       Construir Wraith — un NPQN entrenado end-to-end en enteros
+busco:        Compañeros de equipo · entidades ejecutivas
+              que ayuden a financiar el proyecto
+contacto:     programmingblas@gmail.com
 ```
 
 <br>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/216121967-7366c88e-6faf-4b21-8e61-afd8f5de0c6c.png" width="28"> Proyecto actual: **Wraith**
 
-<br>
+Estoy construyendo **Wraith — un Native Pure Quantized Network (NPQN)**, un modelo de lenguaje con pipeline 100% integer. Paper en preparación.
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121967-7366c88e-6faf-4b21-8e61-afd8f5de0c6c.png" width="32"> Flagship — **Wraith**: Native Pure Quantized Network (NPQN)
-
-> **The first LLM with 100% integer training pipeline.**
-> No fp16 matmuls · No fp32 optimizer masters · No post-hoc quantization.
-> Just integer arithmetic, end to end, from gradient accumulation to forward pass.
+Es mi primer proyecto de investigación en deep learning, y en el proceso estuve aprendiendo tecnologías que son nuevas para mí:
 
 ```diff
-+ Native    → trained quantized from random initialization, not converted post-hoc
-+ Pure      → zero float tensors anywhere in the weight pipeline
-+ Quantized → 9-level Dualwire at Shannon limit (3.17 bits/weight)
-+ LLM scale → multi-purpose transformer, 186M validated, 2B/100B projected
-- No bf16 masters (unlike BitNet b1.58)
-- No fp32 optimizer states (unlike standard mixed-precision)
-- No post-hoc compression (unlike GPTQ, AWQ, BitsAndBytes)
++ CUDA y CUDA Graphs       → captura de pipelines de decode
++ WMMA int8                 → tensor cores con aritmética entera
++ Packed ternary (2-bit)   → codificación compacta de pesos
++ Shadow int16 optimizer    → acumulador entero persistente con redondeo estocástico
++ Custom CUDA kernels       → primeros kernels propios escritos desde cero
++ Stochastic rounding / STE → backward para pesos discretos
 ```
 
-### 📊 Benchmarks — Wraith 186M vs. fp16 baseline (same architecture)
-
-<div align="center">
-
-| Metric | Wraith 186M | cuBLAS fp16 baseline | Δ |
-|:---|:---:|:---:|:---:|
-| 🚀 Throughput (decode B=1, RTX 5070) | **501 tok/s** | 387 tok/s | **+29%** |
-| 💾 Peak Inference VRAM | **114 MB** | 1,031 MB | **−89%** (9× less) |
-| ⚡ Energy per Token | **64 mJ** | 84 mJ | **−24%** |
-| 🎯 Kernel speedup vs cuBLAS fp16 | **2.38–2.59×** | 1.00× | 2–3× faster ops |
-| 💿 Packed storage (5-trits/byte, Shannon-optimal) | **74.9 MB** | 372 MB | **4.97× smaller** |
-| 📈 Perplexity WikiText-2 (same training budget) | **102** | 636 | **6.24× better** |
-
-</div>
-
-### 🧠 Technical highlights
-- **Custom CUDA kernels**: packed 2-bit GEMV, fused QKV/GateUp, embedding lookup packed, CUDA Graphs compatible
-- **Dualwire quantization**: 9 discrete levels (3.17 bits/weight, Shannon-optimal for 2 ternary channels)
-- **Shadow int16 optimizer**: persistent integer state with stochastic rounding — distinct from transient matmul accumulators in NITI/Ghaffari
-- **ASR** (Adaptive Saturation Relief): novel correction for the Derived-Scale Saturation Coupling (DSSC) failure mode
-- Runs a complete LLM on a **\$650 consumer GPU** — same card used for training from scratch
-
-> 📄 **Paper:** targeting NeurIPS / ICLR 2026 · draft in preparation
-> 🔒 **Preview under NDA:** [programmingblas@gmail.com](mailto:programmingblas@gmail.com)
+Todo lo anterior lo estoy aprendiendo hace alrededor de **1 año**. No pretendo ser experto — sí pretendo llevar el proyecto a término con rigor.
 
 <br>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-c855ad5e-1b41-4b4f-aa95-6087dd1e1cfd.png" width="32"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-c855ad5e-1b41-4b4f-aa95-6087dd1e1cfd.png" width="28"> Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,cuda,cpp,c,linux,docker,postgres,mongodb,redis,fastapi,flask,git,github,vscode,bash,nodejs,ts&perline=9" />
-
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cuda,cpp,linux,docker,postgres,mongodb,fastapi,git,bash,redis&perline=12" />
 </div>
 
-### 🔬 Research / LLM stack
-```python
-Languages:    Python · C++ · CUDA · Bash
-ML:           PyTorch · Triton · NumPy · CUDA Graphs
-Kernels:      Packed ternary GEMV · Fused QKV/GateUp · dp4a · WMMA int8
-Training:     Shadow int16 optimizer · Stochastic rounding · STE · ASR
-Inference:    Custom end-to-end engine · CPU C++ AVX2 · WebGPU target
+### 🟢 Backend — 3+ años, base sólida
+```
+Python · FastAPI · Flask · PostgreSQL · MongoDB · Redis
+Docker · Linux · Websockets · Modbus · Selenium
+APIs RESTful · NLP · optimización SQL · sanitización · pentesting junior
 ```
 
-### ⚙️ Backend stack (3+ years production)
-```python
-Core:         Python · FastAPI · Flask · RESTful APIs
-Databases:    PostgreSQL · MySQL · SQLite · MongoDB · Redis
-Integration:  Modbus · Websockets · Selenium · NLP pipelines
-DevOps:       Docker · Linux · Git · CI/CD · PostgreSQL tuning
-Security:     Data sanitization · SQL hardening · Pentesting (junior)
+### 🔴 Research / LLM — 1 año, en aprendizaje
+```
+PyTorch · CUDA · CUDA Graphs · WMMA int8 · packed ternary
+Shadow int16 optimizer · Stochastic rounding · Custom CUDA kernels · Triton
 ```
 
 <br>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122058-4de2d56e-6b4c-48e7-a06f-a6e3bfec5f3d.png" width="32"> Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122058-4de2d56e-6b4c-48e7-a06f-a6e3bfec5f3d.png" width="28"> Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blasfemico&show_icons=true&theme=synthwave&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=C9D1D9&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasfemico&layout=compact&theme=synthwave&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blasfemico&show_icons=true&theme=radical&bg_color=0A0A0A&title_color=FF003C&icon_color=39FF14&text_color=FFFFFF&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasfemico&layout=compact&theme=radical&bg_color=0A0A0A&title_color=FF003C&text_color=FFFFFF&hide_border=true&langs_count=8" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=blasfemico&theme=synthwave&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF006E&currStreakNum=FFFFFF&sideNums=00F5FF&currStreakLabel=FF006E&sideLabels=C9D1D9&dates=C9D1D9" width="60%" />
-
-<br><br>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=blasfemico&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=blasfemico&theme=radical&hide_border=true&background=0A0A0A&stroke=FF003C&ring=FF003C&fire=39FF14&currStreakNum=FFFFFF&sideNums=FF003C&currStreakLabel=39FF14" width="65%" />
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/216121990-7b6ec373-4de7-4d43-a04b-7d49d56eb8d2.png" width="28"> Busco
+
+- 🧑‍🤝‍🧑 **Compañeros de equipo** — para sumarse al desarrollo de Wraith y de sistemas de agentes IA autónomos
+- 💼 **Entidades ejecutivas** — empresas, inversores o sponsors que ayuden a la financiación del proyecto para alcanzar la validación a escala 2B
+- 🎓 **Colaboración académica** — para los experimentos de escalamiento (20B / 100B)
+
+> Contacto directo: **`programmingblas@gmail.com`**
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121990-7b6ec373-4de7-4d43-a04b-7d49d56eb8d2.png" width="32"> What I'm Looking For
-
-<table align="center">
-<tr>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-9a2c91f9cd74.gif" width="80"><br>
-<b>🧪 Compute Sponsors</b><br>
-<sub>Anthropic · Google TRC · Lambda · NVIDIA Inception · AWS Activate</sub><br><br>
-<i>2B validation run: ~$3k in H100 credits (1 GPU × ~14 days)</i>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80"><br>
-<b>🚀 Accelerators</b><br>
-<sub>UTEC · Kaszek · NXTP · Antler · Y Combinator</sub><br><br>
-<i>Seed round for scaling validation</i>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="80"><br>
-<b>🏢 Enterprise Pilots</b><br>
-<sub>On-device · Edge · Air-gapped · LATAM compliance</sub><br><br>
-<i>Sub-200 MB LLMs where privacy or hardware matters</i>
-</td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-9a2c91f9cd74.gif" width="80"><br>
-<b>🎓 Academic Collaboration</b><br>
-<sub>For 20B / 100B scale-up experiments</sub><br><br>
-<i>Co-authorship available · reproducible research commitment</i>
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32"> Track Record
-
-```
-2026 Q2 ─────────────── Wraith v1 (186M) complete · kernel stack · paper draft
-            │
-2025 ──────────────────── Mid-Senior Backend · FastAPI · Postgres · pentesting (junior)
-            │
-2022-2023 ──────────── Mid Backend · Python · API design · data pipelines
-            │
-2022 ──────────────────── Junior Backend · first production systems
-```
-
-Public selected projects: [`NeuroADAN-PAPER`](https://github.com/blasfemico/NeuroADAN-PAPER) · [`SecureBrain`](https://github.com/blasfemico/SecureBrain) · [`SAC`](https://github.com/blasfemico/SAC)
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122029-6d334758-4f29-4d7f-b0bc-5dbcb0f55c13.png" width="32"> Connect
+## <img src="https://user-images.githubusercontent.com/74038190/216122029-6d334758-4f29-4d7f-b0bc-5dbcb0f55c13.png" width="28"> Conectar
 
 <div align="center">
 
 <a href="mailto:programmingblas@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF006E" />
+  <img src="https://img.shields.io/badge/Gmail-FF003C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
 </a>
 <a href="https://www.linkedin.com/in/dante-villena/">
-  <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00F5FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=0B3D0B" />
 </a>
 <a href="https://github.com/blasfemico">
-  <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=39FF14" />
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF003C" />
 </a>
-<img src="https://img.shields.io/badge/Discord-_blasfemia-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" />
+<img src="https://img.shields.io/badge/Discord-_blasfemia-39FF14?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0B3D0B" />
 
 </div>
 
 <br><br>
 
-<blockquote align="center">
-<i>"I think, therefore I compile — and the next LLM should run in 114 MB."</i>
-</blockquote>
+<div align="center">
+
+> ### _"The net is vast and infinite."_
+> **— Motoko Kusanagi · Ghost in the Shell**
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=120&section=footer" width="100%" />
