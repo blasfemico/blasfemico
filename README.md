@@ -11,7 +11,7 @@
        https://media.giphy.com/media/xUNd9HZq1itMkiK652/giphy.gif  (Neon cyberpunk portrait, 811KB)
        https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif      (Hacker aesthetic, 2.7MB)
 -->
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="420" alt="Ghost in the Shell" />
+<img src="[https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamYyM2Y4bTM1anVhMDViemR5NnFnYWI2aHlzYXEwMW5yNzQyeGZpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4hrwXJnW9RuBd6/giphy.gif)" width="420" alt="Ghost in the Shell" />
 
 <br><br>
 
@@ -141,7 +141,7 @@ Shadow int16 optimizer · Stochastic rounding · Custom CUDA kernels · Triton
 
 <div align="center">
 
-> ### _"The net is vast and infinite."_
+> ### _"La red es vasta e infinita."_
 > **— Motoko Kusanagi · Ghost in the Shell**
 
 </div>
