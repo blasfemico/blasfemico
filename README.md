@@ -1,13 +1,17 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=260&section=header&text=Dante%20Villena&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mid-Senior%20Backend%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Arquitecto%20de%20Agentes%20IA&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:0B3D0B,100:FF003C&height=260&section=header&text=Dante%20Villena&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mid-Senior%20Backend%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Arquitecto%20de%20Agentes%20IA&descAlignY=58&descSize=17" width="100%" />
 
-<!-- GIF cabeza cyberpunk. Si este no carga, reemplazalo con otro GIF de Motoko Kusanagi / GITS:
-     - https://tenor.com/ (buscar "ghost in the shell motoko gif", copiar "Share link" como .gif)
-     - https://giphy.com/ (idem)
-     - Un GIF propio subido a tu repo o imgur -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Cyberpunk head" />
+<br>
+
+<!-- GIF cyberpunk head — verificado 200 OK, image/gif, 87KB, animado.
+     Si querés cambiarlo, probá estos (todos verificados):
+       https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif   (Motoko GITS, 87KB, rápido)
+       https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif  (Cyberpunk girl neón, 781KB)
+       https://media.giphy.com/media/xUNd9HZq1itMkiK652/giphy.gif  (Neon cyberpunk portrait, 811KB)
+       https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif      (Hacker aesthetic, 2.7MB)
+-->
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="420" alt="Ghost in the Shell" />
 
 <br><br>
 
@@ -25,11 +29,15 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════════
+     Activity Graph estilo cyberpunk (reemplaza al snake genérico).
+     Es una gráfica animada real de tus contribuciones a lo largo del tiempo.
+     ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blasfemico&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=FF003C&line=39FF14&point=FFFFFF&area=true&custom_title=Actividad%20//%20ghost-in-the-shell.exe" width="100%" />
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"> `whoami`
+## 🧠 `whoami`
 
 ```yaml
 nombre:       Dante Villena
@@ -47,16 +55,16 @@ contacto:     programmingblas@gmail.com
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121967-7366c88e-6faf-4b21-8e61-afd8f5de0c6c.png" width="28"> Proyecto actual: **Wraith**
+## ⚡ Proyecto actual — **Wraith**
 
 Estoy construyendo **Wraith — un Native Pure Quantized Network (NPQN)**, un modelo de lenguaje con pipeline 100% integer. Paper en preparación.
 
 Es mi primer proyecto de investigación en deep learning, y en el proceso estuve aprendiendo tecnologías que son nuevas para mí:
 
 ```diff
-+ CUDA y CUDA Graphs       → captura de pipelines de decode
++ CUDA y CUDA Graphs        → captura de pipelines de decode
 + WMMA int8                 → tensor cores con aritmética entera
-+ Packed ternary (2-bit)   → codificación compacta de pesos
++ Packed ternary (2-bit)    → codificación compacta de pesos
 + Shadow int16 optimizer    → acumulador entero persistente con redondeo estocástico
 + Custom CUDA kernels       → primeros kernels propios escritos desde cero
 + Stochastic rounding / STE → backward para pesos discretos
@@ -66,7 +74,7 @@ Todo lo anterior lo estoy aprendiendo hace alrededor de **1 año**. No pretendo 
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-c855ad5e-1b41-4b4f-aa95-6087dd1e1cfd.png" width="28"> Stack
+## 🔧 Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,cuda,cpp,linux,docker,postgres,mongodb,fastapi,git,bash,redis&perline=12" />
@@ -87,7 +95,7 @@ Shadow int16 optimizer · Stochastic rounding · Custom CUDA kernels · Triton
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122058-4de2d56e-6b4c-48e7-a06f-a6e3bfec5f3d.png" width="28"> Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -102,17 +110,17 @@ Shadow int16 optimizer · Stochastic rounding · Custom CUDA kernels · Triton
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121990-7b6ec373-4de7-4d43-a04b-7d49d56eb8d2.png" width="28"> Busco
+## 🎯 Busco
 
-- 🧑‍🤝‍🧑 **Compañeros de equipo** — para sumarse al desarrollo de Wraith y de sistemas de agentes IA autónomos
-- 💼 **Entidades ejecutivas** — empresas, inversores o sponsors que ayuden a la financiación del proyecto para alcanzar la validación a escala 2B
+- 🧑‍🤝‍🧑 **Compañeros de equipo** — para sumarse al desarrollo de Wraith y sistemas de agentes IA autónomos
+- 💼 **Entidades ejecutivas** — empresas, inversores o sponsors que ayuden a la financiación del proyecto hasta la validación a escala 2B
 - 🎓 **Colaboración académica** — para los experimentos de escalamiento (20B / 100B)
 
 > Contacto directo: **`programmingblas@gmail.com`**
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122029-6d334758-4f29-4d7f-b0bc-5dbcb0f55c13.png" width="28"> Conectar
+## 📡 Conectar
 
 <div align="center">
 
@@ -140,4 +148,4 @@ Shadow int16 optimizer · Stochastic rounding · Custom CUDA kernels · Triton
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff003c&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:0B3D0B,100:FF003C&height=120&section=footer" width="100%" />
