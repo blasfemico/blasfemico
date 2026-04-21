@@ -11,21 +11,19 @@
 -->
 <div align="center">
   <img src="https://media.giphy.com/media/l0K4hrwXJnW9RuBd6/giphy.gif" width="600" alt="Ghost in the Shell" />
+
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=800&color=FF003C&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Mid-Senior+Backend+Engineer+%2B+CTO;Arquitecto+de+sistemas+aut%C3%B3nomos+de+agentes+IA;Building+Wraith+%E2%80%94+el+NPQN;CUDA+%2F+ML+%2F+DL+%E2%80%94+aprendiendo+hace+1+a%C3%B1o" alt="typing" />
+  </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=blasfemico&label=Profile+Views&color=FF003C&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/San%20Juan%2C%20Argentina%20🇦🇷-0B3D0B?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Abierto%20a-equipo%20%7C%20financiaci%C3%B3n-39FF14?style=for-the-badge&labelColor=0B3D0B" />
 </div>
-
-<br><br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=800&color=FF003C&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Mid-Senior+Backend+Engineer+%2B+CTO;Arquitecto+de+sistemas+aut%C3%B3nomos+de+agentes+IA;Building+Wraith+%E2%80%94+el+NPQN;CUDA+%2F+ML+%2F+DL+%E2%80%94+aprendiendo+hace+1+a%C3%B1o" alt="typing" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=blasfemico&label=Profile+Views&color=FF003C&style=for-the-badge" />
-<img src="https://img.shields.io/badge/San%20Juan%2C%20Argentina%20🇦🇷-0B3D0B?style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Abierto%20a-equipo%20%7C%20financiaci%C3%B3n-39FF14?style=for-the-badge&labelColor=0B3D0B" />
-</div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════
