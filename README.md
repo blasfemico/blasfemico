@@ -9,7 +9,9 @@
        https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif
        https://media.giphy.com/media/xUNd9HZq1itMkiK652/giphy.gif
 -->
-<img src="https://media.giphy.com/media/l0K4hrwXJnW9RuBd6/giphy.gif" width="600" alt="Ghost in the Shell" />
+<div align="center">
+  <img src="https://media.giphy.com/media/l0K4hrwXJnW9RuBd6/giphy.gif" width="600" alt="Ghost in the Shell" />
+</div>
 
 <br><br>
 
@@ -22,7 +24,6 @@
 <img src="https://komarev.com/ghpvc/?username=blasfemico&label=Profile+Views&color=FF003C&style=for-the-badge" />
 <img src="https://img.shields.io/badge/San%20Juan%2C%20Argentina%20🇦🇷-0B3D0B?style=for-the-badge&labelColor=0A0A0A" />
 <img src="https://img.shields.io/badge/Abierto%20a-equipo%20%7C%20financiaci%C3%B3n-39FF14?style=for-the-badge&labelColor=0B3D0B" />
-
 </div>
 
 <br>
