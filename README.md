@@ -72,7 +72,7 @@ contacto:     programmingblas@gmail.com
 
 ## ⚡ Proyecto actual — **Wraith**
 
-Estoy construyendo **Wraith — un Native Pure Quantized Network (NPQN)**, un modelo de lenguaje con pipeline 100% integer. Paper en preparación.
+Estoy construyendo **Wraith — un Native Pure Quantized Network (NPQN)**, un modelo de lenguaje con pipeline 100% integer. Repo: https://github.com/blasfemico/Wraith
 
 Es mi primer proyecto de investigación en deep learning, y en el proceso estuve aprendiendo tecnologías que son nuevas para mí:
 
