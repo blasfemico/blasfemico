@@ -9,7 +9,7 @@
        https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif
        https://media.giphy.com/media/xUNd9HZq1itMkiK652/giphy.gif
 -->
-<img src="https://media.giphy.com/media/l0K4hrwXJnW9RuBd6/giphy.gif" width="480" alt="Ghost in the Shell" />
+<img src="https://media.giphy.com/media/l0K4hrwXJnW9RuBd6/giphy.gif" width="600" alt="Ghost in the Shell" />
 
 <br><br>
 
