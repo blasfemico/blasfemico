@@ -1,17 +1,15 @@
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:0B3D0B,100:FF003C&height=260&section=header&text=Dante%20Villena&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mid-Senior%20Backend%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Arquitecto%20de%20Agentes%20IA&descAlignY=58&descSize=17" width="100%" />
 
 <br>
 
-<!-- GIF cyberpunk head — verificado 200 OK, image/gif, 87KB, animado.
-     Si querés cambiarlo, probá estos (todos verificados):
-       https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif   (Motoko GITS, 87KB, rápido)
-       https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif  (Cyberpunk girl neón, 781KB)
-       https://media.giphy.com/media/xUNd9HZq1itMkiK652/giphy.gif  (Neon cyberpunk portrait, 811KB)
-       https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif      (Hacker aesthetic, 2.7MB)
+<!-- GIF cyberpunk head - elegido por el autor. Para swap rápido probá:
+       https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif
+       https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif
+       https://media.giphy.com/media/xUNd9HZq1itMkiK652/giphy.gif
 -->
-<img src="[https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamYyM2Y4bTM1anVhMDViemR5NnFnYWI2aHlzYXEwMW5yNzQyeGZpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4hrwXJnW9RuBd6/giphy.gif)" width="420" alt="Ghost in the Shell" />
+<img src="https://media.giphy.com/media/l0K4hrwXJnW9RuBd6/giphy.gif" width="480" alt="Ghost in the Shell" />
 
 <br><br>
 
@@ -30,10 +28,28 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════
-     Activity Graph estilo cyberpunk (reemplaza al snake genérico).
-     Es una gráfica animada real de tus contribuciones a lo largo del tiempo.
+     Terminal simulation cyberpunk — reemplaza al activity graph.
+     Secuencia animada tipo shell hacker, verde neón sobre negro,
+     rota 5 comandos en loop. Mucho más cyberpunk que una gráfica.
      ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blasfemico&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=FF003C&line=39FF14&point=FFFFFF&area=true&custom_title=Actividad%20//%20ghost-in-the-shell.exe" width="100%" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=600&color=39FF14&background=0A0A0A00&center=true&vCenter=true&multiline=false&repeat=true&width=950&height=60&lines=%3E+ssh+blasfemico%40ghost-in-the-shell.net;%3E+%5BSYS%5D+Neural+interface+unlocked;%3E+%5BSYS%5D+Decrypting+wraith%2Fnpqn.ckpt...;%3E+%5BSYS%5D+Daemon+online+%C2%B7+114+MB+%C2%B7+501+tok%2Fs;%3E+cat+%2Fproc%2Fconsciousness+%7C+grep+ghost" alt="terminal" />
+
+```
+╭────────────────────────────────────────────────────────────────────────────╮
+│ >  root@blasfemico:~# systemctl status wraith.service                      │
+│ >  ● wraith.service - Native Pure Quantized Network daemon                 │
+│ >     Loaded: loaded (/etc/wraith/npqn.conf; enabled)                      │
+│ >     Active: active (running) · uptime: 1 year · training                 │
+│ >     Memory: 114 MB · Tokens/s: 501 · Energy: 64 mJ/token                 │
+│ >     Status: [ OK ] shadow_int16 optimizer nominal                        │
+│ >     Status: [ OK ] dualwire channels synced  · scales derived            │
+│ >     Status: [ .. ] awaiting 2B validation sponsor                        │
+╰────────────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
 
 <br>
 
@@ -141,7 +157,7 @@ Shadow int16 optimizer · Stochastic rounding · Custom CUDA kernels · Triton
 
 <div align="center">
 
-> ### _"La red es vasta e infinita."_
+> ### _"The net is vast and infinite."_
 > **— Motoko Kusanagi · Ghost in the Shell**
 
 </div>
