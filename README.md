@@ -15,7 +15,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=800&color=FF003C&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Mid-Senior+Backend+Engineer+%2B+CTO;Arquitecto+de+sistemas+aut%C3%B3nomos+de+agentes+IA;Building+Wraith+%E2%80%94+el+NPQN;CUDA+%2F+ML+%2F+DL+%E2%80%94+aprendiendo+hace+1+a%C3%B1o" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=800&color=FF003C&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Mid-Senior+Backend+Engineer+%2B;Arquitecto+de+sistemas+aut%C3%B3nomos+de+agentes+IA;Building+Wraith+%E2%80%94+el+NPQN;CUDA+%2F+ML+%2F+DL+%E2%80%94+aprendiendo+hace+1+a%C3%B1o" alt="typing" />
   </a>
 
   <br><br>
@@ -35,18 +35,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=600&color=39FF14&background=0A0A0A00&center=true&vCenter=true&multiline=false&repeat=true&width=950&height=60&lines=%3E+ssh+blasfemico%40ghost-in-the-shell.net;%3E+%5BSYS%5D+Neural+interface+unlocked;%3E+%5BSYS%5D+Decrypting+wraith%2Fnpqn.ckpt...;%3E+%5BSYS%5D+Daemon+online+%C2%B7+114+MB+%C2%B7+501+tok%2Fs;%3E+cat+%2Fproc%2Fconsciousness+%7C+grep+ghost" alt="terminal" />
 
-```
-╭────────────────────────────────────────────────────────────────────────────╮
-│ >  root@blasfemico:~# systemctl status wraith.service                      │
-│ >  ● wraith.service - Native Pure Quantized Network daemon                 │
-│ >     Loaded: loaded (/etc/wraith/npqn.conf; enabled)                      │
-│ >     Active: active (running) · uptime: 1 year · training                 │
-│ >     Memory: 114 MB · Tokens/s: 501 · Energy: 64 mJ/token                 │
-│ >     Status: [ OK ] shadow_int16 optimizer nominal                        │
-│ >     Status: [ OK ] dualwire channels synced  · scales derived            │
-│ >     Status: [ .. ] awaiting 2B validation sponsor                        │
-╰────────────────────────────────────────────────────────────────────────────╯
-```
+
 
 </div>
 
@@ -57,14 +46,13 @@
 ```yaml
 nombre:       Dante Villena
 ubicacion:    San Juan, Argentina 🇦🇷
-rol:          Mid-Senior Backend Engineer · CTO
+rol:          Mid-Senior Backend Engineer 
 especialidad: Arquitecto de sistemas autónomos de agentes IA
 experiencia:
   backend:    3+ años (solid ground)
   cuda/ml/dl: ~1 año (aprendiendo activamente, nuevo para mí)
-mision:       Construir Wraith — un NPQN entrenado end-to-end en enteros
-busco:        Compañeros de equipo · entidades ejecutivas
-              que ayuden a financiar el proyecto
+mision:       Construir Wraith — Modelo enfocado especificamente en costos de training y inferencias low cost.
+busco:        Compañeros de equipo 
 contacto:     programmingblas@gmail.com
 ```
 
@@ -72,7 +60,7 @@ contacto:     programmingblas@gmail.com
 
 ## ⚡ Proyecto actual — **Wraith**
 
-Estoy construyendo **Wraith — un Native Pure Quantized Network (NPQN)**, un modelo de lenguaje con pipeline 100% integer. Repo: https://github.com/blasfemico/Wraith
+Estoy construyendo **Wraith**, un modelo de lenguaje con escalas de cuantizacion aprendibles. Repo: https://github.com/blasfemico/Wraith
 
 Es mi primer proyecto de investigación en deep learning, y en el proceso estuve aprendiendo tecnologías que son nuevas para mí:
 
@@ -99,7 +87,7 @@ Todo lo anterior lo estoy aprendiendo hace alrededor de **1 año**. No pretendo 
 ```
 Python · FastAPI · Flask · PostgreSQL · MongoDB · Redis
 Docker · Linux · Websockets · Modbus · Selenium
-APIs RESTful · NLP · optimización SQL · sanitización · pentesting junior
+APIs RESTful · NLP · optimización SQL · sanitización · Conocimientos de pentesting
 ```
 
 ### 🔴 Research / LLM — 1 año, en aprendizaje
