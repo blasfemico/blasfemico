@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:0B3D0B,100:FF003C&height=260&section=header&text=Dante%20Villena&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mid-Senior%20Backend%20Engineer%20%C2%B7%%20%C2%B7%20Arquitecto%20de%20Agentes%20IA&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:0B3D0B,100:FF003C&height=260&section=header&text=Dante%20Villena&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mid-Senior%20Backend%20Engineer%20%C2%B7%C2%B7%20Arquitecto%20de%20Agentes%20IA&descAlignY=58&descSize=17" width="100%" />
 
 <br>
 
