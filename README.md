@@ -15,7 +15,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=800&color=FF003C&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Mid-Senior+Backend+Engineer+%2B;Arquitecto+de+sistemas+aut%C3%B3nomos+de+agentes+IA;Building+Wraith;CUDA+%2F+ML+%2F+DL+%E2%80%94+aprendiendo+hace+1+a%C3%B1o" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=800&color=FF003C&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Mid-Senior+Backend+Engineer+%2B;Arquitecto+de+sistemas+aut%C3%B3nomos+de+agentes+IA;" alt="typing" />
   </a>
 
   <br><br>
