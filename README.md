@@ -86,7 +86,7 @@ Todo lo anterior lo estoy aprendiendo hace alrededor de **1 año**. No pretendo 
 ### 🟢 Backend — 3+ años, base sólida
 ```
 Python · FastAPI · Flask · PostgreSQL · MongoDB · Redis
-Docker · Linux · Websockets · Modbus · Selenium
+Docker · Linux · Websockets · Modbus · Selenium · integracion con terceros
 APIs RESTful · NLP · optimización SQL · sanitización · Conocimientos de pentesting
 ```
 
